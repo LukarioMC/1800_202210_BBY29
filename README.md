@@ -8,6 +8,7 @@
 This browser based web application to ...
 * Hi my name is Sangwon. I'm excited about this project because I learn best "hands-on"
 * Hi my name is Nash. I'm excited about this project because there is a lot of chance to co-work with excellent team members!
+* Hello, my name is Dakaro! I'm excited to code. 
 	
 ## Technologies
 Technologies used for this project:
