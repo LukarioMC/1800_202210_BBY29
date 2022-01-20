@@ -6,7 +6,11 @@
 
 ## General Info
 This browser based web application to ...
+<<<<<<< HEAD
 * Hi my name is Sangwon. I'm excited about this project because I learn best "hands-on"
+=======
+* Hello, my name is Dakaro! I'm excited to code. 
+>>>>>>> 9fc67eb (Added introduction line for Dakaro)
 	
 ## Technologies
 Technologies used for this project:
